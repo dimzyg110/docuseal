@@ -14,7 +14,7 @@
     "@hotwired/turbo-rails": "^7.3.0",
     "@specious/htmlflow": "^1.1.0",
     "@tabler/icons-vue": "^2.47.0",
-    "@tiptap/core": "^3.19.0",
+    "@tiptap/core": "^3.30.4",
     "@tiptap/extension-bold": "^3.19.0",
     "@tiptap/extension-document": "^3.19.0",
     "@tiptap/extension-dropcursor": "^3.19.0",
